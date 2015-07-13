@@ -2,7 +2,7 @@
 
 ## sample table
 
-|user|id|info|
+| user | id | info |
 |---|---|---|---|
 |demo|4711|hububb|
 
